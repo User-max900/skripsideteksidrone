@@ -1,0 +1,2 @@
+# skripsideteksidrone
+blobandsistem
